@@ -46,6 +46,6 @@ Provide a high-level summary of the results and two additional visualizations th
 
 Description
 
-<p align="center"><img src="https://github.com/teachjanderson/bikesharing/blob/main/Images/Station%20Cluster%20Totals.png" width="600" />
+<p align="center"><img src="https://github.com/teachjanderson/bikesharing/blob/main/Images/StationTotals2.png" width="600" />
 
 Description
