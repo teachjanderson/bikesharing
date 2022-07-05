@@ -52,6 +52,6 @@ Further analysis of Station IDs revealed clusters of Citibike use. Cluster 6 inc
 
 <p align="center"><img src="https://github.com/teachjanderson/bikesharing/blob/main/Images/StationClusers.png" width="600" />
 
-This represents each of the stations throughout New York. Those in Cluster 6 make up the 15 stations generating the most users by station. 
+These charts represent each of the stations throughout New York. Those in Cluster 6 make up the 15 stations generating the most users by station. 
 
 <p align="center"><img src="https://github.com/teachjanderson/bikesharing/blob/main/Images/StationTotals2.png" width="600" />
